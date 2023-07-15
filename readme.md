@@ -2,7 +2,7 @@
 - 👀 I’m interested in Springboot
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on [CS-Note](https://github.com/idealzouhu/CS-Note)
-- - 📫 Contact me: idealzouhu@outlook.com
+- 📫 Contact me: idealzouhu@outlook.com
 
 
 <!---
